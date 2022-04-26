@@ -8,6 +8,10 @@ Electronics, Automation and Computers Technician (TEAC)
 *   ✉️  You can contact me at [gasparcarvalho1026@gmail.com](mailto:gasparcarvalho1026@gmail.com)
 *   🧠  I'm learning Management of Networks and Computer Systems (GRSI)
 
+<div align="left">  
+<a href="https://www.github.com/JoseCarvalho1026" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoseCarvalho1026?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a> 
+</div>
+
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -35,9 +39,6 @@ Electronics, Automation and Computers Technician (TEAC)
 </div>
 <div align="left"> 
 <a href="http://www.github.com/JoseCarvalho1026"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseCarvalho1026&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
-</div>
-<div align="left">  
-<a href="https://www.github.com/JoseCarvalho1026" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoseCarvalho1026?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a> 
 </div>
 
 ##  
