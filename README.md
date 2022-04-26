@@ -29,10 +29,10 @@ Electronics, Automation and Computers Technician (TEAC)
 <p align="left"> <a href="https://www.github.com/JoseCarvalho1026" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/josecarvalho1026" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### My GitHub Stats
-
-<div align="center">  
+ 
 <a href="http://www.github.com/JoseCarvalho1026"><img src="https://github-readme-stats.vercel.app/api?username=JoseCarvalho1026&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="JoseCarvalho1026's GitHub stats" /></a>  
 <a href="http://www.github.com/JoseCarvalho1026"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseCarvalho1026&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+<div align="center">  
 <a href="https://www.github.com/JoseCarvalho1026" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoseCarvalho1026?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a> 
 </div>
 
