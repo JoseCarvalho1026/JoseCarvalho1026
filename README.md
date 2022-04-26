@@ -1,5 +1,4 @@
-Hi 👋 My name is José Carvalho
-==============================
+# Hi 👋 My name is José Carvalho
 
 ### Electronics, Automation and Computers Technician (TEAC)
 
